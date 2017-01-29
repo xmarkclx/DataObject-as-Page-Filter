@@ -1,7 +1,26 @@
 DataObject-as-Page-Filter
 =========================
 
-Forked by @markcl to allow Composer support for Silverstripe 3.4.
+Forked by @xmarkclx to allow Composer support for Silverstripe 3.4.
+
+To use, on composer.json, add:
+
+```
+"repositories": [
+	    {
+	        "type":"package",
+	        "package": {
+	          "name": "arambalakjian/dataobjectaspagefilter",
+	          "version":"master",
+	          "source": {
+	              "url": "https://github.com/xmarkclx/DataObject-as-Page-Filter.git",
+	              "type": "git",
+	              "reference":"master"
+	            }
+	        }
+	    }
+	],
+```
 
 ## Maintainers
 
