@@ -1,6 +1,8 @@
 DataObject-as-Page-Filter
 =========================
 
+Forked by @markcl to allow Composer support for Silverstripe 3.4.
+
 ## Maintainers
 
  * Aram Balakjian
